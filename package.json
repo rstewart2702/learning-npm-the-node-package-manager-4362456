@@ -1,0 +1,26 @@
+{
+  "name": "npm-course",
+  "version": "1.0.0",
+  "description": "Learning how to use npm and nodejs ecosystem tools.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LinkedInLearning/learning-npm-the-node-package-manager-4362456.git"
+  },
+  "author": "Richard S. Stewart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LinkedInLearning/learning-npm-the-node-package-manager-4362456/issues"
+  },
+  "homepage": "https://github.com/LinkedInLearning/learning-npm-the-node-package-manager-4362456#readme",
+  "dependencies": {
+    "express": "^4.21.0"
+  },
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "cli": "^1.0.1"
+  }
+}
